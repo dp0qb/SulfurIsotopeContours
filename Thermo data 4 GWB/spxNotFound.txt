@@ -1,0 +1,84 @@
+Antarcticite
+   Antarcticite
+Aphthitalite
+   Aphthitalite
+Arcanite
+   Arcanite
+Bischofite
+   Bischofite
+Bloedite
+   Bloedite
+Burkeite
+   Burkeite
+Ca2Cl2(OH)2:H2O
+   Ca2Cl2(OH)2:H2O
+Ca4Cl2(OH)6:13H2O
+   Ca4Cl2(OH)6:13H2O
+CaCl2:4H2O
+   CaCl2:4H2O
+Carnallite
+   Carnallite
+Epsomite
+   Epsomite
+Gaylussite
+   Gaylussite
+Glauberite
+   Glauberite
+Gypsum
+   Gypsum
+Hexahydrite
+   Hexahydrite
+K2CO3:1.5H2O
+   K2CO3:1.5H2O
+K3H(SO4)2
+   K3H(SO4)2
+K8H4(CO3)6:3H2O
+   K8H4(CO3)6:3H2O
+KNaCO3:6H2O
+   KNaCO3:6H2O
+Kainite
+   Kainite
+Kalicinite
+   Kalicinite
+Kieserite
+   Kieserite
+Leonite
+   Leonite
+Mercallite
+   Mercallite
+Mirabilite
+   Mirabilite
+Misenite
+   Misenite
+Na2CO3:7H2O
+   Na2CO3:7H2O
+Na3H(SO4)2
+   Na3H(SO4)2
+Na4Ca(SO4)3:2H2O
+   Na4Ca(SO4)3:2H2O
+Nahcolite
+   Nahcolite
+Natron
+   Natron
+Oxychloride-Mg
+   Oxychloride-Mg
+Picromerite
+   Picromerite
+Pirssonite
+   Pirssonite
+Polyhalite
+   Polyhalite
+Portlandite
+   Portlandite
+Syngenite
+   Syngenite
+Tachyhydrite
+   Tachyhydrite
+Thenardite
+   Thenardite
+Thermonatrite
+   Thermonatrite
+Trona
+   Trona
+Trona-K
+   Trona-K
